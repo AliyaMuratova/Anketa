@@ -1,0 +1,59 @@
+body{
+    background: url("./img/fon1.jpeg");
+    background-size: cover;
+    justify-content: center;
+    background-repeat: no-repeat;
+}
+
+.block{
+    position: absolute;
+    width: 640px;
+    height: 264px;
+    left: 350px;
+    top: 200px;
+
+    background: #FFFFFF;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.row mt-3{
+    justify-content: center;
+}
+button{
+    position: absolute;
+    width: 250px;
+    height: 40px;
+    left: 200px;
+    top: 180px;
+    color: white;
+    background: #232529;
+    border-radius: 10px;
+}
+
+.block-1{
+    position: absolute;
+    width: 640px;
+    height: 328px;
+    left: 350px;
+    top: 190px;
+    background: #FFFFFF;
+    border-radius: 10px;
+}
+.message{
+    text-align: center;
+}
+.image{
+    position: absolute;
+}
+.image img{
+    left: -0.2%;
+    right: 0.2%;
+    justify-content: center;
+    margin-left: 280px;
+    background: rgba(0, 0, 0, 0.03);
+}
+
+.content{
+    margin-top: 50px;
+}
