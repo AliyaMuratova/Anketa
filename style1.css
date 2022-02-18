@@ -4,6 +4,15 @@ body{
     justify-content: center;
     background-repeat: no-repeat;
 }
+h3{
+    font-family: 'Nunito Sans', sans-serif;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 23px;
+    line-height: 20px;
+    margin-top: 44px;
+    margin-bottom: 30px;
+}
 
 .block{
     position: absolute;
@@ -47,4 +56,11 @@ body{
 
 .content{
     margin-top: 50px;
+}
+
+.form-select {
+    height: 50px;
+    opacity: 0.5;
+    border: 0.5px solid #AEAEAE;
+    border-radius: 10px;
 }
