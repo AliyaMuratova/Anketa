@@ -63,3 +63,10 @@ a {
 a:hover {
     color: #FFFFFF;
 }
+
+.vector {
+    background-image: url("./img/Vector.svg");
+    background-position: 95%;
+    background-repeat: no-repeat;
+    background-size: 15px;
+}
